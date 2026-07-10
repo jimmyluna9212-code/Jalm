@@ -1,5 +1,7 @@
 # JALM Industrial Solutions
 
-Documentación de reubicación de equipo industrial pesado, as-built, gemelos digitales 3D e inspección (termografía, boroscopio) — Fort Worth, Texas.
+*Field Reality. Technical Clarity.*
+
+Levantamientos as-built comerciales (Express 48 horas) y reubicación documentada de equipo industrial pesado — escaneo 3D, termografía, boroscopio, gemelos digitales y portales de entrega — Fort Worth / DFW, Texas.
 
 - [Descripción de servicios para el cliente (paso a paso)](DESCRIPCION_SERVICIOS_CLIENTE.md)

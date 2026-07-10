@@ -1,95 +1,135 @@
 # JALM Industrial Solutions — Qué hacemos por usted, paso a paso
 
-**JALM Industrial Solutions LLC** (Fort Worth, Texas) es una firma de servicios de ingeniería industrial especializada en **reubicación documentada de equipo industrial pesado** y **documentación técnica de sitio** (as-built, gemelos digitales 3D, inspección y diagnóstico).
+**Field Reality. Technical Clarity.**
 
-Cuando usted mueve una línea de producción, adquiere maquinaria usada o necesita saber exactamente qué tiene instalado en su planta, JALM convierte el caos de manuales contradictorios, planos desactualizados y "conocimiento tribal" en **una sola referencia técnica: verificada, navegable y lista para que su equipo trabaje sin retrabajos**.
+**JALM Industrial Solutions** (Fort Worth · DFW, Texas) documenta la realidad física de su espacio o de su equipo industrial y la convierte en información técnica clara, verificada y navegable: planos as-built, escaneos 3D, termografía, inspección con boroscopio y portales en línea.
 
----
+Dos líneas de servicio:
 
-## Nuestro proceso, paso a paso
-
-### Paso 1 — Llamada de descubrimiento y visita al sitio
-
-Empezamos con una llamada breve para entender su proyecto: qué equipo se mueve o se documenta, de dónde a dónde, y en qué fechas. Después hacemos un **recorrido de sitio (site walk)** para dimensionar el alcance real: cuántos paneles, motores, circuitos y áreas hay que capturar.
-
-### Paso 2 — Propuesta con alcance definido
-
-Usted recibe una propuesta clara: qué se entrega, en qué formato, en cuánto tiempo y a qué precio. Sin sorpresas ni cargos ocultos. El alcance define exactamente qué equipos, paneles y sistemas quedan cubiertos.
-
-### Paso 3 — Captura de campo con tecnología de inspección avanzada
-
-Nuestro equipo va a su planta y captura **todo** el estado real del equipo, con herramientas que van mucho más allá de una cámara fotográfica:
-
-- **Escaneo láser 3D (Matterport / Polycam / LiDAR):** recorremos la instalación y generamos un **gemelo digital 3D navegable** de su planta o equipo, con medidas reales. Su equipo puede "caminar" virtualmente por el sitio desde cualquier computadora, sin viajar.
-- **Medición láser de precisión Leica:** distancias, alturas y claros verificados con precisión milimétrica — crítico para saber si el equipo cabe en el sitio destino, por dónde entra y qué obra civil requiere.
-- **Termografía infrarroja:** inspección térmica de paneles eléctricos, centros de control de motores (MCC), conexiones y motores. La cámara térmica detecta **puntos calientes invisibles al ojo** — conexiones flojas, sobrecargas y fallas en gestación — antes de que provoquen un paro no programado o un incendio. Cada hallazgo se entrega en un reporte con imagen térmica, imagen real y severidad clasificada.
-- **Boroscopio (videoscopio de inspección interna):** cámara de sonda que entra donde una persona no puede — interior de gearboxes, ductos, tuberías, motores y gabinetes sellados — para inspeccionar el estado interno del equipo **sin desarmarlo**. Así se documenta la condición real antes de mover, comprar o energizar una máquina.
-- **Lentes inteligentes Ray-Ban Meta:** captura de video en primera persona, con las manos libres, durante inspecciones y desconexiones. Cada paso de la desconexión de su maquinaria queda grabado exactamente como lo ve el técnico — evidencia invaluable a la hora de reconectar en destino.
-- **Cámara 360° (Insta360):** registro envolvente de áreas completas para contexto espacial y documentación de condiciones previas.
-- **Evidencia fotográfica verificada:** cada panel con foto frontal e interior, cada desconectador con foto de etiqueta, cada motor con foto de placa de datos. Todo cruzado en un índice de etiquetas rastreable (Traceable Tag Index).
-- **Pruebas eléctricas de referencia:** medición de resistencia de conexiones y aterrizajes (DLRO / micro-ohmímetro), análisis de puesta a tierra y bonding — la línea base que su electricista necesita en el arranque.
-
-### Paso 4 — Reconciliación forense de la documentación
-
-El equipo industrial típico llega con **7 a 15 documentos del fabricante que se contradicen entre sí**: manuales de versiones distintas, diagramas que no coinciden con lo instalado, listas de partes obsoletas. JALM cruza cada documento contra la evidencia de campo y resuelve cada contradicción **con prueba fotográfica**. Si el manual dice una cosa y la foto muestra otra, gana la foto — y la discrepancia queda documentada.
-
-> Ejemplo real: en una línea de corte (Cut-to-Length) reconciliamos 7 documentos, resolvimos 25 contradicciones y corregimos el conteo de circuitos de 70 a 110 — antes de que esos errores costaran semanas de retrabajo en campo.
-
-### Paso 5 — Producción de su Portal Maestro Unificado
-
-Toda la información capturada y reconciliada se integra en un **portal web técnico privado** para su proyecto (no un PDF muerto que nadie abre). El portal incluye:
-
-- Resumen ejecutivo del proyecto con métricas y pendientes marcados
-- Gemelo digital 3D navegable, integrado sin necesidad de login
-- Inventario foto-verificado de paneles, motores y dispositivos
-- Análisis de circuitos categorizado (potencia, control, red, seguridad) con los circuitos críticos señalizados
-- Reportes de termografía e inspección con boroscopio
-- Procedimientos LOTO / energía cero específicos a su equipo, con puntos de aislamiento fotografiados
-- Planos CAD actualizados (DWG, DXF, PDF)
-- Registro de riesgos vivo y zona de descargas con todos los archivos
-
-Además del portal, usted recibe el **Reporte Maestro en PDF**, el índice de etiquetas en Excel y la librería fotográfica completa organizada por equipo.
-
-### Paso 6 — Entrega y recorrido con su equipo
-
-Antes de la entrega final, revisamos el portal en versión beta con usted, repasamos cada contradicción resuelta y hacemos un **walkthrough** con su equipo eléctrico y mecánico para que todos sepan usar la herramienta desde el día uno.
-
-### Paso 7 — Soporte en campo y actualización continua (opcional)
-
-- Acompañamiento en sitio durante desconexión, etiquetado, reinstalación y commissioning
-- Verificación de energía cero y compuertas de arranque (commissioning gates)
-- Plan de actualización anual para mantener su documentación as-built al día después de la mudanza
+1. **Levantamiento As-Built Comercial** — *48-Hour As-Built Express*
+2. **Reubicación documentada de equipo industrial pesado**
 
 ---
 
-## Lo que usted obtiene
+# 1 · Levantamiento As-Built Comercial (Express 48 horas)
 
-| Entregable | Formato |
+### No cotice a ciegas. Sepa exactamente con qué está trabajando antes de comprometerse.
+
+Medimos su espacio existente y lo convertimos en un paquete de documentación claro: planos 2D precisos, un escaneo 3D navegable, imágenes 360° y fotografías. Todo se entrega a través de su portal en línea, **normalmente dentro de las 48 horas siguientes a la visita**.
+
+### De un vistazo
+
+| | |
 |---|---|
-| Portal web técnico privado | Acceso en línea, navegable |
-| Reporte Maestro | PDF (50–120 páginas) |
-| Índice de etiquetas rastreable | Excel / Google Sheets |
-| Planos CAD actualizados | DWG + PDF |
-| Gemelo digital 3D | Link Matterport / Polycam |
-| Reportes de termografía y boroscopio | PDF con imágenes clasificadas |
-| Librería de evidencia fotográfica | Organizada por equipo y panel |
-| Registro de contradicciones resueltas | Trazabilidad auditable |
+| **Alcance** | Un espacio comercial existente — retail, oficina, bodega o tenant build-out |
+| **Qué capturamos** | Mediciones láser, escaneo 3D móvil, termografía, 360° y fotos/video de referencia |
+| **Qué recibe** | Plano as-built (PDF + CAD/DXF), escaneo 3D y recorrido 360° |
+| **Cómo lo recibe** | Su portal en línea — se abre en cualquier dispositivo, sin instalar nada |
+| **Términos** | 50% de depósito para reservar su fecha; saldo contra entrega |
 
-## Alcance honesto: lo que NO hacemos
+### Cómo funciona: de la visita a la entrega
 
-Para proteger su proyecto, somos claros con los límites de nuestro servicio:
+**Paso 0 — Alcance** *(antes de la visita)*
+- Confirmamos el espacio, las áreas a cubrir y exactamente qué va a recibir.
+- Verificamos acceso al sitio, horarios y requisitos de seguridad.
+- Aseguramos su fecha con el 50% de depósito.
+- Preparamos la lista de verificación de campo y confirmamos que los instrumentos estén calibrados.
 
-- No firmamos planos que requieren sello de Ingeniero Profesional (PE) — eso lo hace el PE de su elección, con nuestra documentación como insumo
-- No hacemos levantamientos topográficos de terreno (land surveying)
-- No realizamos trabajo de electricista licenciado (cableado, energización) — coordinamos y documentamos; la ejecución la hacen contratistas autorizados
-- No sustituimos al ingeniero del fabricante — somos su **integrador documental**
+**Paso 1 — Captura en sitio** *(la visita)*
+- Tomamos **mediciones láser de precisión** en puntos clave y aberturas.
+- Recorremos el espacio con un **escáner móvil** para capturarlo completo en 3D.
+- Capturamos **imágenes 360°** para un registro visual navegable.
+- Grabamos un **video del recorrido en primera persona, manos libres** (lentes con cámara POV).
+- Inspeccionamos cavidades ocultas, conductos y equipos con **boroscopio**.
+- Capturamos **imágenes térmicas** para señalar problemas eléctricos, mecánicos o de humedad.
+- Fotografiamos acabados, detalles y equipos; anotamos obstrucciones o áreas sin acceso.
 
-## Por qué le conviene
+**Paso 2 — Procesamiento** *(en el estudio)*
+- Reunimos todos los datos de campo en un solo lugar.
+- Construimos un **modelo 3D preciso** de su espacio a partir del escaneo.
+- Lo limpiamos y lo anclamos a las dimensiones medidas.
+- Alineamos las fotos 360° con el plano.
 
-Una reubicación industrial sin documentación unificada cuesta típicamente **semanas de retraso y decenas de miles de dólares en retrabajos**: circuitos mal identificados, piezas que no aparecen, equipos que no caben. El servicio de JALM cuesta una fracción de eso — y le entrega desde el día uno la información correcta, no suposiciones.
+**Paso 3 — Dibujo** *(en el estudio)*
+- Trazamos muros, aberturas, columnas y elementos fijos a partir del modelo y las mediciones.
+- Dibujamos el **plano as-built** y exportamos **CAD / DXF**.
+- Aplicamos un titleblock en su formato local (p. ej., Fort Worth).
+- Armamos el paquete de planos as-built y el set de reporte.
+
+**Paso 4 — Revisión** *(antes de que usted lo reciba)*
+- Cotejamos los planos contra las mediciones y el modelo 3D.
+- Confirmamos que la medición dentro del portal esté respaldada por instrumentos calibrados.
+- Verificamos cada archivo para que su paquete llegue completo e inalterado.
+- Revisión final contra la lista de entregables.
+
+**Paso 5 — Entrega** *(handover)*
+- Publicamos todo en su portal — documentos, CAD, 360° y 3D.
+- Lo abre y navega desde cualquier dispositivo, incluido su teléfono.
+- Recorrido de entrega con usted; saldo contra entrega.
+- Su paquete verificado queda archivado.
+
+### Qué llevamos al sitio
+
+| Instrumento | Para qué sirve |
+|---|---|
+| **Leica DISTO X6** + adaptador 360° + tripié | Mediciones precisas y la línea base dimensional |
+| **Livox Mid-360** — escáner LiDAR 360° | Captura todo su espacio en 3D denso |
+| **Escáner móvil** (unidad portátil) | Escanea el espacio en sitio en una sola pasada |
+| **Cámara térmica** (termografía) | Señala problemas eléctricos, mecánicos y de humedad |
+| **Boroscopio** (cámara de inspección) | Ve dentro de cavidades, conductos y equipos |
+| **Lentes con cámara POV** (Ray-Ban Meta) | Video manos libres del recorrido en primera persona |
+| **Cámara 360°** (captura panorámica) | Vista 360° navegable ligada al plano |
+| **Fotografía** en alta resolución | Documenta acabados, detalles y equipos |
+
+### Qué recibe
+
+- **Plano as-built** — PDF y CAD / DXF editable
+- **Escaneo 3D de su espacio** — explórelo en su navegador, sin instalar nada
+- **Recorrido 360°** — fotos panorámicas ligadas al plano
+- **Fotos de referencia** — acabados, detalles y equipos
+- **Termografía e inspección** — capturadas en sitio donde aplique
+- **Video en primera persona** — recorrido de referencia, donde se capture
+- **Paquete CAD as-built** — planos medidos con los que su arquitecto o ingeniero puede armar un set de permisos
+- **Entrega verificada** — cada archivo revisado: completo e inalterado
+- **Acceso al portal** — un solo link, cualquier dispositivo
+
+### Con qué puede contar
+
+- Las mediciones son trazables a un instrumento calibrado.
+- Los detalles de su proyecto se mantienen confidenciales.
+- Los entregables se proporcionan en inglés.
+- Documentación as-built únicamente — la aprobación de permisos la determina su autoridad local.
 
 ---
 
-**JALM Industrial Solutions LLC** · Fort Worth, Texas
-Servicio bilingüe (español / inglés) · Cobertura: Texas y estados colindantes
-jalmindustrialsolution.com
+# 2 · Reubicación documentada de equipo industrial pesado
+
+Cuando usted mueve una línea de producción o adquiere maquinaria usada, JALM convierte el caos de manuales contradictorios y planos desactualizados en **una sola referencia técnica verificada** para que su equipo eléctrico y mecánico ejecute la reubicación sin retrabajos.
+
+**Paso 1 — Site walk.** Llamada de descubrimiento y recorrido del sitio para dimensionar el alcance real: paneles, motores, circuitos y áreas a capturar.
+
+**Paso 2 — Propuesta.** Alcance definido: qué se entrega, en qué formato, en cuánto tiempo y a qué precio.
+
+**Paso 3 — Captura de campo.** El mismo arsenal del as-built comercial —escaneo 3D, medición láser Leica, **termografía** de paneles y centros de control de motores (MCC), **boroscopio** para el interior de gearboxes, ductos y gabinetes sin desarmar, video POV manos libres durante desconexiones, cámara 360°— más **evidencia fotográfica verificada** (cada panel, cada placa de motor, cada etiqueta) y **pruebas eléctricas de referencia** (resistencia de conexiones y aterrizajes DLRO, análisis de puesta a tierra).
+
+**Paso 4 — Reconciliación forense de documentación.** El equipo industrial típico llega con 7 a 15 documentos del fabricante que se contradicen entre sí. Cruzamos cada documento contra la evidencia de campo y resolvemos cada contradicción con prueba fotográfica. *Ejemplo real: en una línea Cut-to-Length reconciliamos 7 documentos, resolvimos 25 contradicciones y corregimos el conteo de circuitos de 70 a 110.*
+
+**Paso 5 — Portal Maestro Unificado.** Portal web técnico privado con: gemelo digital 3D navegable, inventario foto-verificado, análisis de circuitos con los críticos señalizados, reportes de termografía e inspección, procedimientos LOTO / energía cero con puntos de aislamiento fotografiados, planos CAD actualizados (DWG/DXF/PDF), registro de riesgos y zona de descargas. Además: Reporte Maestro en PDF (50–120 páginas), índice de etiquetas rastreable en Excel y librería fotográfica completa.
+
+**Paso 6 — Entrega y walkthrough.** Revisión del portal en beta, repaso de contradicciones resueltas y recorrido con su equipo.
+
+**Paso 7 — Soporte en campo (opcional).** Acompañamiento en desconexión, etiquetado, reinstalación y commissioning; verificación de energía cero; plan de actualización anual del as-built.
+
+### Alcance honesto: lo que NO hacemos
+
+- No firmamos planos que requieren sello de Ingeniero Profesional (PE) — eso lo hace el PE de su elección, con nuestra documentación como insumo.
+- No hacemos levantamientos topográficos de terreno (land surveying).
+- No realizamos trabajo de electricista licenciado (cableado, energización) — coordinamos y documentamos; la ejecución la hacen contratistas autorizados.
+- No sustituimos al ingeniero del fabricante — somos su **integrador documental**.
+
+---
+
+**JALM Industrial Solutions** · Fort Worth, Texas · Cobertura DFW, Texas y estados colindantes
+Servicio bilingüe (español / inglés) · jalmindustrialsolution.com
+
+*Field Reality. Technical Clarity.*
